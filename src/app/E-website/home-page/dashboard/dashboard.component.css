@@ -1,0 +1,200 @@
+mat-toolbar {
+    background-color: black;
+    color: #fff;
+    height: 50px;
+
+}
+
+mat-toolbar h1 {
+    font-size: 15px;
+}
+
+.space {
+    flex: auto;
+}
+
+.comforty {
+    height: 80px;
+    background-color: rgb(237, 238, 238);
+}
+
+.comforty .icon {
+    display: flex;
+    margin-left: 100px;
+    padding: 15px;
+}
+
+.icon input {
+    padding: 0px 80px 0px 80px;
+    margin-left: 200px;
+    border-radius: 15px 0px 0px 15px;
+    border: 1px solid #fff;
+}
+
+.icon button {
+    border: 1px solid #fff;
+    background-color: #fff;
+
+}
+
+.menu-page {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.menu-page h1 {
+    font-size: 16px;
+    margin-left: 30rem;
+}
+
+.furniture {
+    width: 90%;
+    margin-left: 70px;
+    margin-top: -15px;
+}
+
+.furniture .card {
+    background-color: rgb(237, 238, 238);
+    border-radius: 0px 0px 30px 30px;
+    height: 700px;
+    border: none;
+}
+
+.round-cricle {
+    background-color: rgb(219, 219, 219);
+    border-radius: 50%;
+    padding: 250px;
+    width: 0px;
+    height: 0px;
+    margin-top: -35rem;
+    margin-left: 40rem;
+}
+
+.product-image {
+    margin-top: -320px;
+    margin-left: 45rem;
+
+}
+
+.company-names {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 9rem;
+    margin-top: 50px;
+}
+
+.featured {
+    margin-top: 50px;
+}
+
+.our-products {
+    margin-top: 50px;
+}
+
+.our-products .products-btn {
+    text-align: center;
+
+}
+
+.products-btn button {
+    text-transform: uppercase;
+
+}
+
+.two-card {
+    background-color: rgb(237, 238, 238);
+    margin-top: 50px;
+    height: 550px;
+}
+
+.recently {
+    margin-top: 50px;
+
+}
+
+.footer-page {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 7rem;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer img {
+    opacity: 0.6;
+}
+
+footer h1 {
+    margin-top: 10px;
+}
+
+.glass-type {
+    background: rgb(13, 11, 51);
+    background: linear-gradient(370deg,
+            hsl(0, 0%, 7%) 0%,
+            rgba(15, 14, 14, 0.945) 47%,
+            rgba(13, 13, 14, 0.904) 100%);
+    margin-top: -81px;
+    margin-right: 10px;
+    border-radius: 0px 0px 8px 8px;
+
+}
+
+.glass-type button {
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 30px 30px 200px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 0px 70px 0px 43px;
+    opacity: 0.6;
+    color: #fff;
+}
+
+.glass-page {
+    background: rgb(13, 11, 51);
+    background: linear-gradient(370deg,
+            hsl(0, 0%, 7%) 0%,
+            rgba(15, 14, 14, 0.945) 47%,
+            rgba(13, 13, 14, 0.904) 100%);
+    margin-top: -81px;
+    margin-right: 17px;
+    border-radius: 0px 0px 150px 150px;
+}
+
+.glass-page button {
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 30px 30px 200px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 0px 113px 0px 110px;
+    opacity: 0.6;
+    color: #fff;
+    background-color: black;
+
+}
+
+.glass-wood {
+    background: rgb(13, 11, 51);
+    background: linear-gradient(370deg,
+            hsl(0, 0%, 7%) 0%,
+            rgba(15, 14, 14, 0.945) 47%,
+            rgba(13, 13, 14, 0.904) 100%);
+    margin-top: -81px;
+    margin-right: 17px;
+    border-radius: 0px 0px 150px 150px;
+}
+
+.glass-wood button {
+    background: rgba(255, 255, 255, 0.05);
+    box-shadow: 30px 30px 200px rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 0px 104px 0px 100px;
+    opacity: 0.6;
+    color: #fff;
+    background-color: black;
+}

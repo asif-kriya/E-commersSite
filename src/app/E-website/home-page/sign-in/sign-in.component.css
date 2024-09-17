@@ -1,0 +1,117 @@
+mat-toolbar {
+    background-color: black;
+    color: #fff;
+    height: 50px;
+
+}
+
+mat-toolbar h1 {
+    font-size: 15px;
+}
+
+.space {
+    flex: auto;
+}
+
+.comforty {
+    height: 80px;
+    background-color: rgb(237, 238, 238);
+}
+
+.comforty .icon {
+    display: flex;
+    margin-left: 180px;
+    padding: 15px;
+}
+
+.icon input {
+    padding: 0px 80px 0px 80px;
+    margin-left: 200px;
+    border-radius: 15px 0px 0px 15px;
+    border: 1px solid #fff;
+}
+
+.icon button {
+    border: 1px solid #fff;
+    background-color: #fff;
+
+}
+
+.menu-page {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 180px;
+}
+
+.menu-page h1 {
+    font-size: 16px;
+    margin-left: 30rem;
+}
+
+.card-page {
+    background-color: rgb(237, 238, 238);
+    width: 90%;
+    margin-left: 70px;
+    height: 150px;
+    border-radius: 0px 0px 40px 40px;
+    margin-top: -15px;
+    border: none;
+}
+
+.card-page .page-btn {
+    margin-left: 7rem;
+}
+
+.form-card {
+    width: 40%;
+    margin-left: 33rem;
+    margin-top: 100px;
+}
+
+form input {
+    background-color: rgb(237, 238, 238);
+    margin-bottom: 10px;
+    padding: 10px 30px 10px 30px;
+    width: 90%;
+    margin-left: 25px;
+    border: 1px solid rgb(237, 238, 238);
+    border-radius: 10px;
+}
+
+
+.checkbox {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.checkbox input {
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+.checkbox a {
+    margin-right: 30px;
+   
+}
+
+.footer-page {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 7rem;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+footer img {
+    opacity: 0.6;
+}
+
+footer h1 {
+    margin-top: 10px;
+}
